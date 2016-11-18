@@ -43,12 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/pasted-svg-81575x71.svg</loc>
-    <lastmod>2016-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://applandingpage.com/images/pasted-svg-277252x385.svg</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -61,19 +55,13 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://applandingpage.com/images/pasted-svg-81575x71.svg</loc>
+    <lastmod>2016-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://applandingpage.com/images/pasted-svg-61142x63.svg</loc>
-    <lastmod>2016-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://applandingpage.com/images/your%20portfolio.png</loc>
-    <lastmod>2016-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://applandingpage.com/images/your%20portfolio_2x.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -85,19 +73,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/asx%20announcement_2x.png</loc>
-    <lastmod>2016-11-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://applandingpage.com/images/buy%20hold%20sell.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/buy%20hold%20sell_2x.png</loc>
+    <loc>http://applandingpage.com/images/your%20portfolio.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -139,19 +121,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://applandingpage.com/images/mobile%20devices%20v3342x468.png</loc>
+    <lastmod>2016-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://applandingpage.com/images/mobile%20devices%20v3342x468_2x.png</loc>
+    <lastmod>2016-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://applandingpage.com/images/android@2x174x56.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/vectors-er-is-ii-icons-v1-02.svg</loc>
+    <loc>http://applandingpage.com/images/android@2x174x56_2x.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/apple@2x174x56.png</loc>
+    <loc>http://applandingpage.com/images/vectors-er-is-ii-icons-v1-02.svg</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -206,6 +200,18 @@
   </url>
   <url>
     <loc>http://applandingpage.com/images/apple@2x159x52_2x.png</loc>
+    <lastmod>2016-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://applandingpage.com/images/mobile%20devices%20redo.png</loc>
+    <lastmod>2016-11-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://applandingpage.com/images/mobile%20devices%20redo_2x.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -283,7 +289,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://applandingpage.com/images/android@2x174x56_2x.png</loc>
+    <loc>http://applandingpage.com/images/apple@2x174x56.png</loc>
     <lastmod>2016-11-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
