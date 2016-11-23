@@ -7,18 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://trailcap.com/images/group%2014@2x.png</loc>
-    <lastmod>2016-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://trailcap.com/images/group%2014@2x_2x.png</loc>
-    <lastmod>2016-11-23</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://trailcap.com/images/group%2015@2x.png</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,13 +19,37 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://trailcap.com/images/group%2014@2x.png</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trailcap.com/images/group%2014@2x_2x.png</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trailcap.com/images/table@3x.png</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://trailcap.com/images/vectors-er-is-ii-icons-v1-02.svg</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://trailcap.com/images/table@3x_2x.png</loc>
+    <loc>http://trailcap.com/images/table@3x320x163.png</loc>
+    <lastmod>2016-11-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trailcap.com/images/table@3x320x163_2x.png</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,7 +67,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://trailcap.com/images/table@3x.png</loc>
+    <loc>http://trailcap.com/images/table@3x_2x.png</loc>
     <lastmod>2016-11-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
