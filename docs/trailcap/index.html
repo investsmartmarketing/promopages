@@ -32,7 +32,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   ga('create', 'UA-87667609-1', 'auto');
   ga('send', 'pageview');
 
-</script>  <script type="text/javascript">
+</script><  <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0018/4016.js?"+Math.floor(new Date().getTime()/3600000);
@@ -99,7 +99,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
         <div class="position_content" id="u1225_position_content">
          <div class="clearfix colelem shared_content" id="u7114" data-content-guid="u7114_content"><!-- column -->
           <div class="clearfix colelem shared_content" id="u171-4" data-content-guid="u171-4_content"><!-- content -->
-           <h2 id="u171-2">The following Managed funds maybe eligible for cashback</h2>
+           <h2 id="u171-2">The following Managed funds may be eligible for cashback</h2>
           </div>
           <div class="clearfix colelem" id="pu153-20"><!-- group -->
            <div class="clearfix grpelem shared_content" id="u153-20" data-content-guid="u153-20_content"><!-- content -->
@@ -349,6 +349,31 @@ $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 
+</script>
+<script src="scripts/jquery-1.8.3.min.js"></script>
+<script type="text/javascript">
+function getUrlVars()
+{
+    var vars = [], hash;
+    var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+    for(var i = 0; i < hashes.length; i++)
+    {
+        hash = hashes[i].split('=');
+        vars.push(hash[0]);
+        vars[hash[0]] = hash[1];
+    }
+    return vars;
+}
+</script>
+<script type="text/javascript">
+$(function() {
+  if(getUrlVars()['utoken'] != 'undefined'){
+    console.log(getUrlVars()['utoken']);
+    var newUrl = $('#u879').attr('href');
+    $('#u879').attr('href',newUrl + getUrlVars()['utoken'] )
+  }
+    
+});
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=244322403" type="text/javascript" async data-main="scripts/museconfig.js?crc=36584860" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
