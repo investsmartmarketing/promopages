@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="trailcap.com" resolutions="1x,2x" timestamp="1479941126071">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="trailcap.com" resolutions="1x,2x" timestamp="1479942679634">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="434919146" ref="index"/>
-    <file name="nomq_index.css" crc="3802561793" ref="index"/>
+    <file name="index.css" crc="3921983781" ref="index"/>
+    <file name="nomq_index.css" crc="188559177" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,41 +11,38 @@
     <file name="museconfig.js" crc="36584860" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
     <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="1_updated_img.jpg" crc="4246857515" ref="index"/>
-    <file name="1_updated_img_2x.jpg" crc="4201432637" ref="index"/>
-    <file name="shutterstock_385087600 copy.jpg" crc="4056561523" ref="index"/>
-    <file name="shutterstock_385087600 copy_2x.jpg" crc="56448250" ref="index"/>
+    <file name="1_updated_img-u8470-fr.png" crc="74366252" ref="index"/>
+    <file name="1_updated_img-u8470-fr_2x.png" crc="67377120" ref="index"/>
     <file name="vectors-er-is-ii-icons-v1-02.svg" crc="3806891495" seo="true" ref="index"/>
     <file name="vectors er is ii icons v1-02_poster_.png" crc="3830675958" ref="index"/>
-    <file name="download form@3x.png" crc="442967352" seo="true" ref="index"/>
-    <file name="download form@3x_2x.png" crc="4008034830" seo="true" ref="index"/>
     <file name="apply online@3x.png" crc="31758894" seo="true" ref="index"/>
     <file name="apply online@3x_2x.png" crc="4015016113" seo="true" ref="index"/>
+    <file name="download form@3x.png" crc="442967352" seo="true" ref="index"/>
+    <file name="download form@3x_2x.png" crc="4008034830" seo="true" ref="index"/>
+    <file name="shutterstock_385087600 copy.jpg" crc="4056561523" ref="index"/>
+    <file name="shutterstock_385087600 copy_2x.jpg" crc="56448250" ref="index"/>
     <file name="ellipse 3.png" crc="3904975807" ref="index"/>
     <file name="ellipse 3_2x.png" crc="3904527932" ref="index"/>
     <file name="table@3x.png" crc="389251154" seo="true" ref="index"/>
     <file name="table@3x_2x.png" crc="524933301" seo="true" ref="index"/>
     <file name="12_savings_money.png" crc="364523081" ref="index"/>
     <file name="12_savings_money_2x.png" crc="11131504" ref="index"/>
-    <file name="1_updated_img-u7786-fr.jpg" crc="4084020769" ref="index"/>
-    <file name="1_updated_img-u7786-fr_2x.jpg" crc="3816656730" ref="index"/>
-    <file name="1_updated_img-u7786-fr2.jpg" crc="4088415308" ref="index"/>
-    <file name="1_updated_img-u7786-fr_2x2.jpg" crc="92160844" ref="index"/>
+    <file name="1_updated_img-u8470-fr2.png" crc="4162152290" ref="index"/>
+    <file name="1_updated_img-u8470-fr_2x2.png" crc="217294478" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr.jpg" crc="325969943" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr_2x.jpg" crc="4239195194" ref="index"/>
     <file name="12_savings_money-u1225-fr.png" crc="183057582" ref="index"/>
     <file name="12_savings_money-u1225-fr_2x.png" crc="3765496402" ref="index"/>
-    <file name="1_updated_img-u7786-fr3.jpg" crc="46422601" ref="index"/>
-    <file name="1_updated_img-u7786-fr_2x3.jpg" crc="4024851568" ref="index"/>
+    <file name="1_updated_img-u8470-fr3.png" crc="4101896912" ref="index"/>
+    <file name="1_updated_img-u8470-fr_2x3.png" crc="3828650481" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr2.jpg" crc="3771937987" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr_2x2.jpg" crc="487360946" ref="index"/>
-    <file name="1_updated_img-u7786-fr4.jpg" crc="4040954689" ref="index"/>
-    <file name="1_updated_img-u7786-fr_2x4.jpg" crc="96682163" ref="index"/>
+    <file name="1_updated_img-u8470-fr4.png" crc="4049797644" ref="index"/>
+    <file name="1_updated_img-u8470-fr_2x4.png" crc="81220795" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr3.jpg" crc="146580805" ref="index"/>
     <file name="shutterstock_385087600 copy-u994-fr_2x3.jpg" crc="4009399763" ref="index"/>
     <file name="table@3x320x163.png" crc="4035967850" seo="true" ref="index"/>
@@ -58,5 +55,5 @@
     <file name="12_savings_money-u1225-fr_2x3.png" crc="3997141891" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4180655433" seo="true" mt="1479941032383" redirect="true"/>
+  <file name="index.html" crc="4071069914" seo="true" mt="1479942592851" redirect="true"/>
 </manifest>

@@ -7,18 +7,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://trailcap.com/images/download%20form@3x.png</loc>
-    <lastmod>2016-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://trailcap.com/images/download%20form@3x_2x.png</loc>
-    <lastmod>2016-11-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://trailcap.com/images/apply%20online@3x.png</loc>
     <lastmod>2016-11-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -26,6 +14,18 @@
   </url>
   <url>
     <loc>http://trailcap.com/images/apply%20online@3x_2x.png</loc>
+    <lastmod>2016-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trailcap.com/images/download%20form@3x.png</loc>
+    <lastmod>2016-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://trailcap.com/images/download%20form@3x_2x.png</loc>
     <lastmod>2016-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
